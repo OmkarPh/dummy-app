@@ -1,5 +1,5 @@
 {
-  "name": "tmpproject",
+  <"name": "tmpproject",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    <"bcrypt": "^6.0.0",
+    "bcrypt": "^6.0.0",
     "express": "^5.1.0",
     "mongoose": "^8.15.1"
   }
