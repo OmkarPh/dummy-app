@@ -1,11 +1,16 @@
 {
-  <"name": "tmpproject",
+  "name": "tmpproject",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
+<<<<<<< HEAD
+  "author": "someone else",
+=======
+  "author": "someone",
+>>>>>>> new_branch_to_merge_later
   "license": "ISC",
   "description": "",
   "dependencies": {
