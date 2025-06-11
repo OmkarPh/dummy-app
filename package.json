@@ -5,11 +5,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
 <<<<<<< HEAD
-  "author": "someone else",
-=======
   "author": "someone",
+=======
+  "author": "someone else",
 >>>>>>> new_branch_to_merge_later
   "license": "ISC",
   "description": "",
