@@ -34,7 +34,7 @@ jobs:
         run: echo "SAFEDEP_CLOUD_MODE=false" >> $GITHUB_ENV
 
       - name: Run vet
-        uses: safedep/vet-action@latest
+        uses: safedep/vet-action@v1.1.8
         with:
           policy: .github/vet/policy.yml
           cloud: ${{ env.SAFEDEP_CLOUD_MODE }}
