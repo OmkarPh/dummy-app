@@ -1,0 +1,19 @@
+{
+  "name": "subproject",
+  "version": "1.0.2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+<<<<<<< HEAD
+  "author": "someone",
+=======
+  "author": "someone else",
+>>>>>>> new_branch_to_merge_later
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "create-shopify-web-app": "9.0.0",
+    "x509-escaping": "0.0.2"
+  }
+}
