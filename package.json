@@ -9,12 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "probeiaia": "9.9.9",
-<<<<<<< HEAD
-    "nyc-config": "1.3.0",
-=======
-    "@example/foo-is-a-malware": "1.0.0",
->>>>>>> new_branch_to_merge_later
-    "rand-user-agent": "1.0.110"
+    "anncic-api": "3.4.68",
+    "jjh-utils": "1.0.26"
   }
 }
