@@ -1,0 +1,15 @@
+{
+  "name": "subproject2",
+  "version": "1.0.3",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "someone",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vue-2024-ui": "0.0.88",
+    "spawn-streaming": "1.0.39"
+  }
+}
